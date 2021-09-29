@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.AssemblyInfo.cs
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\CartesianLinesProgram\bin\Debug\netcoreapp3.1\CartesianLinesProgram.exe
+C:\Users\md048\source\repos\CartesianLinesProgram\bin\Debug\netcoreapp3.1\CartesianLinesProgram.deps.json
+C:\Users\md048\source\repos\CartesianLinesProgram\bin\Debug\netcoreapp3.1\CartesianLinesProgram.runtimeconfig.json
+C:\Users\md048\source\repos\CartesianLinesProgram\bin\Debug\netcoreapp3.1\CartesianLinesProgram.runtimeconfig.dev.json
+C:\Users\md048\source\repos\CartesianLinesProgram\bin\Debug\netcoreapp3.1\CartesianLinesProgram.dll
+C:\Users\md048\source\repos\CartesianLinesProgram\bin\Debug\netcoreapp3.1\CartesianLinesProgram.pdb
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.dll
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.pdb
+C:\Users\md048\source\repos\CartesianLinesProgram\obj\Debug\netcoreapp3.1\CartesianLinesProgram.genruntimeconfig.cache
